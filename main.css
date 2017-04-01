@@ -1,0 +1,103 @@
+body{
+	margin: 0;
+	font-family: "Eczar";
+	color:white;
+	background:black;
+}
+
+header {
+	background:rgb(233,197,79);
+	color:white;
+	padding: 15px 15px 0 15px;
+}
+
+header h1 {
+	margin:25px;
+	display: inline;
+}
+
+nav ul {
+	margin:0;
+	padding: 0;
+	display:inline;
+}
+
+nav ul li {
+	background:rgb(233,197,79);
+	color:white;
+	display:inline-block;
+	list-style-type: none;
+	padding: 20px 15px;
+	font-family: "Eczar";
+}
+
+p {
+	padding: 10px;
+}
+
+h2{
+	padding: 15px;
+}
+
+h3{
+	padding:0% 3%;
+}
+
+p#usbc {
+	padding: 1px;
+	margin: 5px;
+	line-height: 24px;
+}
+p#btm {
+	padding: 1px;
+	margin: 5px;
+	line-height: 24px;
+}
+p#fb {
+	padding: 1px;
+	margin: 5px;
+	line-height: 24px;
+}
+p#foj {
+	padding: 1px;
+	margin: 5px;
+	line-height: 24px;
+}
+p#frat {
+	padding: 1px;
+	margin: 5px;
+	line-height: 24px;
+}
+p#fffb {
+	padding: 1px;
+	margin: 5px;
+	line-height: 24px;
+}
+p#ffbtm {
+	padding: 1px;
+	margin: 5px;
+	line-height: 24px;
+}
+p#ffusbc {
+	padding: 1px;
+	line-height: 24px;
+}
+p#fffrat {
+	padding: 1px;
+	margin: 5px;
+	line-height: 24px;
+}
+p#ffula {
+	padding: 1px;
+	margin: 5px;
+	line-height: 24px;
+}
+p#fffoj {
+	padding: 1px;
+	margin: 5px;
+	line-height: 24px;
+}
+p#ffpic {
+	padding: 20px 0px 0px 0px;
+	margin: 5px;
+}
