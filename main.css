@@ -6,7 +6,7 @@ body{
 }
 
 header {
-	background:rgb(233,197,79);
+	background:rgb(75,156,211);
 	color:white;
 	padding: 15px 15px 0 15px;
 }
@@ -23,7 +23,7 @@ nav ul {
 }
 
 nav ul li {
-	background:rgb(233,197,79);
+	background:rgb(75,156,211);
 	color:white;
 	display:inline-block;
 	list-style-type: none;
